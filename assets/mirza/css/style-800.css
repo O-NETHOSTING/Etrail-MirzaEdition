@@ -1,0 +1,177 @@
+ /* Full Designed by Hrvanovic Mirza (NuxaaWebs, lupkodev)
+
+You can find me on instagram.com/hrvanovicmirza
+or Facebook fb.com/nwwwwwwn or fb.com/nuxaawebs
+ */ /* Full Designed by Hrvanovic Mirza (NuxaaWebs, lupkodev)
+
+You can find me on instagram.com/hrvanovicmirza
+or Facebook fb.com/nwwwwwwn or fb.com/nuxaawebs
+ */ /* Full Designed by Hrvanovic Mirza (NuxaaWebs, lupkodev)
+
+You can find me on instagram.com/hrvanovicmirza
+or Facebook fb.com/nwwwwwwn or fb.com/nuxaawebs
+ */ /* Full Designed by Hrvanovic Mirza (NuxaaWebs, lupkodev)
+
+You can find me on instagram.com/hrvanovicmirza
+or Facebook fb.com/nwwwwwwn or fb.com/nuxaawebs
+ */ /* Full Designed by Hrvanovic Mirza (NuxaaWebs, lupkodev)
+
+You can find me on instagram.com/hrvanovicmirza
+or Facebook fb.com/nwwwwwwn or fb.com/nuxaawebs
+ */ /* Full Designed by Hrvanovic Mirza (NuxaaWebs, lupkodev)
+
+You can find me on instagram.com/hrvanovicmirza
+or Facebook fb.com/nwwwwwwn or fb.com/nuxaawebs
+ */
+@media screen and (min-width: 600px) and (max-width: 960px) {
+  .navmain, .logo {
+    width: 100%;
+  }
+  .main, .main-other {
+  width: 90%;
+  margin: 0 auto 120px auto;
+  min-height: 90vh;
+  }
+  .logo p {
+    padding: 20px 10px 10px 10px;
+    text-align: center;
+    margin: 0;
+  }
+  .home .home-content h1 {
+    padding: 0 10px 30px 10px;
+  } 
+  .home-about .home-about-text p {
+    padding: 0 20px;
+  }
+  .home-about .home-about-text iframe {
+    text-align: center;
+    margin: 40px auto 20px 0;
+    height: 200px;
+    width: 90%;
+  }
+   .home-services ul li {
+    width: 33.333%;
+  }
+  .login-page {
+  	width: 70%;
+  }
+  .qnotifications {
+  	width: 50%;
+  }
+  .navmain {
+    width: 100%;
+  }
+  .navmain ul {
+    margin: 0 auto;
+    float: none;
+    width: auto;
+  }
+  .navmain a:not(:nth-child(5n)), .dropdown .dropbtn {
+    display: none;
+  }
+.header .icon {
+    float: right;
+    display: inline;
+    padding-right: 30px;
+    color: #FFFFFF;
+  }
+    .logo {
+    margin: 20px;
+  }
+  .logo p {
+    text-align: left;
+    padding: 0;
+    margin: 0 0 0 10px;
+    display: inline;
+  }
+  .logo a {
+    display: inline;
+    margin: 0 30px 0 0;
+    text-align: left;
+  }
+  .navmain ul {
+    width: 70%;
+    margin: 5px auto 40px auto;
+    float: none;
+    text-align: center;
+    border: none;
+    padding: 0;
+  }
+.icon {
+  color: #FFFFFF;
+}
+  .navmain.responsive {position: relative;}
+  .header .icon {
+    float: right;  }
+  .navmain.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+    padding: 15px 20px;
+  }
+  .navmain.responsive a.notification-icon {
+    display: none;
+  }
+  .navmain.responsive .dropdown {float: none;}
+  .navmain.responsive .dropdown-content {position: relative;}
+  .navmain.responsive .dropdown .dropbtn {
+    display: block;
+    width: 100%;
+    text-align: left;
+    padding: 15px 20px;
+  }
+  .navmain.reponsive .dropdown .dropbtn{
+    padding: 0 15px;
+    display: block;
+    text-align: left;
+  }
+.panel .panel-nav {
+  width: 100%;
+}
+.panel-main {
+  width: 100%;
+}
+.panel-padding {
+  padding: 0;
+}
+.panel-title {
+  margin: 10px 0 0 0;
+}
+.panel-title p {
+  padding: 0 30px;
+  margin: 5px 30px 15px 20px;
+  font-size: 14px;
+  color: #4d4d4d;
+}
+.panel-header .panel-header-status {
+  margin: 15px auto 0 auto;
+  text-align: center;
+  font-size: 12px;
+  display: block;
+  float: none;
+  font-weight: bold;
+  color: #FFFFFF;
+  border-radius: 10px;
+  width: 90px;
+}
+.panel-header button {
+  width: 100%;
+  margin: 15px 0 0 0;
+}
+.panel-header form {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.panel-header p {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  margin: 15px 0 0 0;
+  padding: 0 30px;
+  float: none;
+}
+.panel-header {
+  margin: 10px 0 0 0;
+}
+}

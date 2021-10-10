@@ -1,0 +1,204 @@
+@media screen and (max-width: 600px) {
+  html,body,head {
+    overflow-x: hidden;
+    width: 100%;
+  }
+  .navmain, .logo {
+    width: 100%;
+  }
+  .main, .main-other {
+    width: 97%;
+    padding: 0;
+  }
+  .header {
+    margin: 0 0 10px 0;
+  }
+  .navmain ul {
+    background: #2b5876;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #4e4376, #2b5876);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #4e4376, #2b5876); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    padding: 20px 0;
+  }
+  .logo {
+    margin: 20px;
+  }
+  .logo p {
+    text-align: left;
+    padding: 0;
+    margin: 0 0 0 10px;
+    display: inline;
+  }
+  .logo a {
+    display: inline;
+    margin: 0 30px 0 0;
+    text-align: left;
+  }
+  .navmain ul {
+    width: 70%;
+    margin: 5px auto 40px auto;
+    float: none;
+    text-align: center;
+    border: none;
+    padding: 0;
+  }
+  .home-content {
+    padding-top: 120px;
+  }
+  .home .home-content h1 {
+    font-size: 26px;
+    padding: 0 70px 30px 70px;
+  } 
+ .home .home-content .second-button {
+    display: none;
+  }
+  .home .home-content button {
+    margin: 0;
+  }
+  .navmain a:not(:nth-child(5n)), .dropdown .dropbtn {
+    display: none;
+  }
+.header .icon {
+    float: right;
+    display: inline;
+    padding-right: 30px;
+    color: #FFFFFF;
+  }
+.icon {
+  color: #FFFFFF;
+}
+  .navmain.responsive {position: relative;}
+  .header .icon {
+    float: right;  }
+  .navmain.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+    padding: 15px 20px;
+  }
+  .navmain.responsive a.notification-icon {
+    display: none;
+  }
+  .navmain.responsive .dropdown {float: none;}
+  .navmain.responsive .dropdown-content {position: relative;}
+  .navmain.responsive .dropdown .dropbtn {
+    display: block;
+    width: 100%;
+    text-align: left;
+    padding: 15px 20px;
+  }
+  .navmain.reponsive .dropdown .dropbtn{
+    padding: 0 15px;
+    display: block;
+    text-align: left;
+  }
+  .home .home-links ul li {
+    padding: 10px 4px;
+  }
+  .fa-facebook-f, .fa-twitter, .fa-instagram, .fa-play, .fa-viber {
+    font-size: 14px;
+  }
+  .home-about .home-about-text p {
+    padding: 0 10px;
+    font-size: 15px;
+  }
+  .home-about .home-about-text iframe {
+    text-align: center;
+    margin: 40px auto 20px 0;
+    height: 200px;
+    width: 90%;
+  }
+  .home-services ul li {
+    width: 100%;
+  }
+  .home-features ul li {
+    width: 100%;
+  }
+  .ewestfooter h1, .ewestfooter h2, .ewestfooter h3, .ewestfooter h4 {
+    padding: 0 40px;
+  }
+  .login-page {
+    width: 90%;
+  }
+  .qnotifications {
+    width: 65%;
+  }
+.panel .panel-nav {
+  width: 100%;
+}
+.panel-main, .panel-main-other {
+  width: 100%;
+}
+.panel-padding {
+  padding: 0;
+}
+.panel-title {
+  margin: 10px 0 0 0;
+}
+.panel-title p {
+  padding: 0 30px;
+  margin: 5px 30px 15px 20px;
+  font-size: 14px;
+  color: #4d4d4d;
+}
+.panel-header .panel-header-status {
+  margin: 15px auto 0 auto;
+  text-align: center;
+  font-size: 12px;
+  display: block;
+  float: none;
+  font-weight: bold;
+  color: #FFFFFF;
+  border-radius: 10px;
+  width: 90px;
+}
+.panel-header button {
+  width: auto;
+  margin: 15px 5px 5px 5px;
+}
+.panel-header input {
+  width: auto;
+  margin: 5px 5px 5px 5px;
+}
+.panel-header form {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.panel-header p {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  margin: 15px 0 0 0;
+  padding: 0 30px;
+  float: none;
+}
+.panel-header {
+  margin: 10px 0 0 0;
+}
+.ticket-msg-header-img {
+  display: none;
+}
+.ticket-msg-header-layer1 {
+  width: 100%;
+}
+.ticket-msg-header-layer1 h3 {
+  display: block;
+  float: left;
+    margin: 5px 0 0 0; 
+}
+.panel-status ul li {
+  width: 100%;
+  float: left;
+  text-align: center;
+}
+.user-status ul li {
+  width: 100%;
+  float: left;
+  text-align: center;
+}
+.ticket-status ul li {
+  width: 100%;
+  float: left;
+  text-align: center;
+}
+/* End */}
